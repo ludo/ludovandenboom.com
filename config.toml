@@ -1,3 +1,4 @@
 baseURL = "http://ludovandenboom.com/"
 languageCode = "en-us"
 title = "ludovandenboom.com"
+theme = "minimo"
