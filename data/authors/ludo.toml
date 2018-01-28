@@ -1,0 +1,13 @@
+id = "ludo"
+
+[email]
+username = "ludo"
+host = "cubicphuse.nl"
+
+[name]
+display = "Ludo van den Boom"
+
+[social]
+email = ""
+facebook = ""
+twitter = "ludooo"
