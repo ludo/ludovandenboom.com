@@ -2,9 +2,9 @@
 title = "Walking Down the Streets"
 authors = ["ludo"]
 description = ""
-tags = ["travel"]
+tags = []
 date = "2007-04-25"
-categories = []
+categories = ["travel"]
 slug = "walking-down-the-streets"
 +++
 

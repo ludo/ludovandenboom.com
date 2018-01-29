@@ -2,9 +2,9 @@
 title = "Vreemd Verschijnsel #1: Kliekjes"
 authors = ["ludo"]
 description = ""
-tags = ["travel"]
+tags = []
 date = "2007-04-27T09:00:00"
-categories = []
+categories = ["travel"]
 slug = "vreemd-verschijnsel-1-kliekjes"
 +++
 

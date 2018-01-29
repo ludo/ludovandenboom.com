@@ -2,9 +2,9 @@
 title = "Geslaagd"
 authors = ["ludo"]
 description = ""
-tags = ["travel"]
+tags = []
 date = "2007-04-27T08:00:00"
-categories = []
+categories = ["travel"]
 slug = "geslaagd"
 +++
 
