@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ludo on ludovandenboom.com</title>
+    <link>http://ludovandenboom.com/authors/ludo/</link>
+    <description>Recent content in Ludo on ludovandenboom.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 15 Feb 2013 10:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://ludovandenboom.com/authors/ludo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>jQuery treetable 3.0</title>
+      <link>http://ludovandenboom.com/posts/jquery-treetable-3-0/</link>
+      <pubDate>Fri, 15 Feb 2013 10:00:00 +0000</pubDate>
+      
+      <guid>http://ludovandenboom.com/posts/jquery-treetable-3-0/</guid>
+      <description>Quick links: download, documentation and examples.
+The jQuery treetable plugin enables rendering a tree structure in a column of an HTML table. When I wrote the original treetable plugin back in 2008 I was still fairly new to creating jQuery plugins. In the meantime I have learned a lot more about jQuery plugin authoring and I wanted to apply this knowledge to the treetable plugin. The result of this is version 3.</description>
+    </item>
+    
+    <item>
+      <title>Backing Up a Gmail Account With Fetchmail on FreeBSD</title>
+      <link>http://ludovandenboom.com/posts/backing-up-a-gmail-account-with-fetchmail-on-freebsd/</link>
+      <pubDate>Mon, 17 Oct 2011 10:00:00 +0000</pubDate>
+      
+      <guid>http://ludovandenboom.com/posts/backing-up-a-gmail-account-with-fetchmail-on-freebsd/</guid>
+      <description>Gmail is awesome. But I do not want Gmail to be the only location where all my important emails are stored. For this reason I use fetchmail to automatically archive any emails sent to my Gmail account on my own FreeBSD server. This guide describes how I currently have this set up.
+Ingredients  FreeBSD 8.2 Fetchmail 6.3.20  Installing Required Packages If you haven&amp;rsquo;t already, install the fetchmail port with the following commands.</description>
+    </item>
+    
+    <item>
+      <title>Never Stop Running</title>
+      <link>http://ludovandenboom.com/posts/never-stop-running/</link>
+      <pubDate>Fri, 14 Oct 2011 10:00:00 +0000</pubDate>
+      
+      <guid>http://ludovandenboom.com/posts/never-stop-running/</guid>
+      <description>From the moment you are born until the moment you die your body works hard to survive, but eventually the parts wear out and maintenance becomes too hard. In some way software is just like a human body. It is born, will be patched up numerous times during its lifetime and it becomes obsolete and is then cleaned up.
+Humans visit hospitals and doctors to have their health checked periodically, the health of software can be checked by running its accompanying test suite.</description>
+    </item>
+    
+    <item>
+      <title>Keeping Your Gems Up-To-Date With Gemtracker</title>
+      <link>http://ludovandenboom.com/posts/keeping-your-gems-up-to-date-with-gemtracker/</link>
+      <pubDate>Wed, 17 Nov 2010 10:00:00 +0000</pubDate>
+      
+      <guid>http://ludovandenboom.com/posts/keeping-your-gems-up-to-date-with-gemtracker/</guid>
+      <description>Figuring out if the gems you use in your Ruby project are outdated can be done by hand, but in a project with many dependencies this is a daunting task. To solve this problem I created gemtracker.org.
+Using gemtracker is as simple as dropping your Gemfile.lock on the target on the homepage. Gemtracker will show you the dependencies from your Gemfile with the current version of each gem you are using.</description>
+    </item>
+    
+    <item>
+      <title>Awesome vs. Epic</title>
+      <link>http://ludovandenboom.com/posts/awesome-vs-epic/</link>
+      <pubDate>Tue, 13 Oct 2009 10:00:00 +0000</pubDate>
+      
+      <guid>http://ludovandenboom.com/posts/awesome-vs-epic/</guid>
+      <description>My dear colleague Ariejan seems to be starting a discussion, that, from what I can tell, is actually a non-discussion. But perhaps someone needs a reminder, so let&amp;rsquo;s all vote for the correct answer to the following question: awesome or epic?
+At least 307,688,999 people (number at time of writing) will know the answer since they use it every day. For the rest of the world: I do not want to influence you, but I know that you know which answer is awesome.</description>
+    </item>
+    
+    <item>
+      <title>May 14th: First Edition of RubyFest</title>
+      <link>http://ludovandenboom.com/posts/may-14th-first-edition-of-rubyfest/</link>
+      <pubDate>Sun, 05 Apr 2009 10:00:00 +0000</pubDate>
+      
+      <guid>http://ludovandenboom.com/posts/may-14th-first-edition-of-rubyfest/</guid>
+      <description>Are you into Ruby? Does Ruby on Rails ring any bells with you? Or are you at least interested in the art of web development? Did you answer yes to one or more of the previous questions? If so, then you might be interested in RubyFest! RubyFest is a Ruby user group for people who live in the Netherlands and Belgium or for people that are in the neighbourhood when one of our meetups is planned.</description>
+    </item>
+    
+    <item>
+      <title>FreeBSD: Remove Bootmanager</title>
+      <link>http://ludovandenboom.com/posts/freebsd-remove-bootmanager/</link>
+      <pubDate>Sat, 21 Feb 2009 10:00:00 +0000</pubDate>
+      
+      <guid>http://ludovandenboom.com/posts/freebsd-remove-bootmanager/</guid>
+      <description>While installing FreeBSD 7.1 I accidentally chose to install the FreeBSD Boot Manager, where I should have chosen to install a standard MBR. Although not that big a deal I still wanted to remove the boot manager from the system. While searching the internet I stumbled upon a lot of resources telling me to use boot0cfg to remove the boot manager. Unfortunately this command failed with the error boot0cfg: /boot/mbr: unknown or incompatible boot code.</description>
+    </item>
+    
+    <item>
+      <title>Bookmark Icon Madness</title>
+      <link>http://ludovandenboom.com/posts/bookmark-icon-madness/</link>
+      <pubDate>Sun, 15 Feb 2009 10:00:00 +0000</pubDate>
+      
+      <guid>http://ludovandenboom.com/posts/bookmark-icon-madness/</guid>
+      <description>On more and more blogs I encounter lists of icons at the bottom of blog posts like the example above. How can something like this ever be useful? Who is going to click any of these icons? Who will even try to find the icon that they might want to click?</description>
+    </item>
+    
+    <item>
+      <title>jQuery treeTable 2.0</title>
+      <link>http://ludovandenboom.com/posts/jquery-treetable-2-0/</link>
+      <pubDate>Wed, 12 Nov 2008 10:00:00 +0000</pubDate>
+      
+      <guid>http://ludovandenboom.com/posts/jquery-treetable-2-0/</guid>
+      <description>Today I released treeTable, a jQuery JavaScript plugin. This plugin is essentially the same as the ActsAsTreeTable plugin I released just one month ago.
+So, why the name change? Well, I didn&amp;rsquo;t like the ActsAsTreeTable name to begin with. Then why didn&amp;rsquo;t I use treeTable to begin with? That&amp;rsquo;s because there already exists a plugin that is named almost the same (jQTreeTable) and it does almost the same thing as my plugin.</description>
+    </item>
+    
+    <item>
+      <title>Merb One-Dot-Oh Is Here!</title>
+      <link>http://ludovandenboom.com/posts/merb-one-dot-oh-is-here/</link>
+      <pubDate>Sat, 08 Nov 2008 10:00:00 +0000</pubDate>
+      
+      <guid>http://ludovandenboom.com/posts/merb-one-dot-oh-is-here/</guid>
+      <description>After having released five release candidates during the past few weeks, Merb 1.0 was announced earlier today. The application that this blog is running on has been using Merb as the underlying application framework since Merb 0.5 was released. Merb has undergone several major changes since, giving me several headaches when upgrading my applications to new versions of Merb. But it taught me a lot on how the framework works and the Merb team has promised that they will keep the public API as stable as possible now 1.</description>
+    </item>
+    
+    <item>
+      <title>Bierclan.nl Redesign History</title>
+      <link>http://ludovandenboom.com/posts/bierclan-nl-redesign-history/</link>
+      <pubDate>Fri, 31 Oct 2008 10:00:00 +0000</pubDate>
+      
+      <guid>http://ludovandenboom.com/posts/bierclan-nl-redesign-history/</guid>
+      <description>Bierclan.nl is the oldest website of mine that is still online. It first appeared on the internet in early 2001, if I recall correctly. This first version was my first attempt at creating a dynamic, interactive website. Just two months ago I released the sixth version that actually made it to the world wide web.
+Bierclan? The Bier-Clan Oostelijke Mijnstreek (or: B-COM) was the name of a project my friends and I started in high school.</description>
+    </item>
+    
+    <item>
+      <title>Google&#39;s Most Annoying Feature</title>
+      <link>http://ludovandenboom.com/posts/google-s-most-annoying-feature/</link>
+      <pubDate>Fri, 17 Oct 2008 10:00:00 +0000</pubDate>
+      
+      <guid>http://ludovandenboom.com/posts/google-s-most-annoying-feature/</guid>
+      <description>Google Search is great. When I query it, it is almost always capable of finding something useful among the billions of webpages out there. But it has one ‘feature’ that drives me crazy: it makes decisions for me. Whenever I enter google.com in the address bar of a browser, it decides that I want to go to google.nl. This wouldn&amp;rsquo;t be so bad if the Dutch version gave me the same results as the English version, but it doesn&amp;rsquo;t.</description>
+    </item>
+    
+    <item>
+      <title>ActsAsTreeTable: a jQuery Plugin</title>
+      <link>http://ludovandenboom.com/posts/actsastreetable-a-jquery-plugin/</link>
+      <pubDate>Thu, 02 Oct 2008 10:00:00 +0000</pubDate>
+      
+      <guid>http://ludovandenboom.com/posts/actsastreetable-a-jquery-plugin/</guid>
+      <description>NOTE: ActsAsTreeTable has been renamed to treeTable. Please read jQuery treeTable 2.0 to see what has changed.
+Lately, I have started doing more and more with JavaScript. I&amp;rsquo;ve developed some useful snippets that I use in a new project that I am currently working on. One of these snippets is something that I have been looking for since a long time: a good way of displaying a collapsable tree in a table.</description>
+    </item>
+    
+    <item>
+      <title>At Last, Summer!</title>
+      <link>http://ludovandenboom.com/posts/at-last-summer/</link>
+      <pubDate>Tue, 09 Sep 2008 10:00:00 +0000</pubDate>
+      
+      <guid>http://ludovandenboom.com/posts/at-last-summer/</guid>
+      <description>A clear blue sky, a good temperature, not having to wear socks: it&amp;rsquo;s summer!</description>
+    </item>
+    
+    <item>
+      <title>Booch? 2008</title>
+      <link>http://ludovandenboom.com/posts/booch-2008/</link>
+      <pubDate>Mon, 25 Aug 2008 10:00:00 +0000</pubDate>
+      
+      <guid>http://ludovandenboom.com/posts/booch-2008/</guid>
+      <description>Booch? is an annual summer festival, held in my hometown: Heerlen. This years eleventh edition of this free festival brought artists like Moke, Claw Boys Claw and Aux Raus. But Booch? is also a podium for new bands and undiscovered local talent to play themselves in the picture. The festival is organized by a large group of volunteers, working hard to make the last weekend of August into one big party.</description>
+    </item>
+    
+    <item>
+      <title>Tractor</title>
+      <link>http://ludovandenboom.com/posts/tractor/</link>
+      <pubDate>Wed, 20 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://ludovandenboom.com/posts/tractor/</guid>
+      <description>Move along, there&amp;rsquo;s nothing to see here. That is what this tractor was trying to tell me while I was about to take the first photograph of his old, rusty body. After a few clicks the tractor seemed to get used to the attention it was getting. Even the sun would show itself for a few minutes. The tractor didn&amp;rsquo;t say a word, but it looked like it was just as surprised as me that the sun was able to punch a hole in the large and heavy clouds floating along slowly, high above our heads.</description>
+    </item>
+    
+    <item>
+      <title>New Design, New Language</title>
+      <link>http://ludovandenboom.com/posts/new-design-new-language/</link>
+      <pubDate>Tue, 29 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://ludovandenboom.com/posts/new-design-new-language/</guid>
+      <description>Welcome to my updated weblog! Until now, all my posts have been written in Dutch. As of this post I&amp;rsquo;m switching to English as the primary language for this blog. But the language change isn&amp;rsquo;t the only major change around here, both the design and the software for this blog have been updated too. I&amp;rsquo;ve switched from using Mephisto to my own blogging slash publishing solution, named to-publish. It is open-source, so feel free to use it, change it or contribute to it.</description>
+    </item>
+    
+    <item>
+      <title>La Casa ME</title>
+      <link>http://ludovandenboom.com/posts/la-casa-me/</link>
+      <pubDate>Sun, 02 Sep 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://ludovandenboom.com/posts/la-casa-me/</guid>
+      <description>Vanaf 1 september zijn op de website van La Casa ME schitterende sieraden, tassen en accessoires om zelf sieraden te maken te koop! Ook kun je je inschrijven voor verschillende creatieve workshops, individueel of als bedrijfsuitje.
+Waarom ik deze reclame op mijn weblog plaats? In de eerste plaats omdat het een hartstikke leuk, creatief bedrijf is. Ze ontwerpen ook zelf sieraden en zullen vanaf half oktober ook een ‘echte’ winkel openen in hartje Heerlen.</description>
+    </item>
+    
+    <item>
+      <title>I&#39;m With Stupid</title>
+      <link>http://ludovandenboom.com/posts/i-m-with-stupid/</link>
+      <pubDate>Wed, 23 May 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://ludovandenboom.com/posts/i-m-with-stupid/</guid>
+      <description> &#34;Uplift is een rock coverband uit het Limburgse Land. De vijf-mans formatie bestaat uit ervaren muzikanten die altijd met veel plezier op het podium staan. De band knalt tijdens oudere en recente alternatieve rocksongs, maar legt ook je ziel bloot bij een ballad.&#34;  </description>
+    </item>
+    
+    <item>
+      <title>Stairway to Heaven</title>
+      <link>http://ludovandenboom.com/posts/stairway-to-heaven/</link>
+      <pubDate>Fri, 18 May 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://ludovandenboom.com/posts/stairway-to-heaven/</guid>
+      <description>Na terugkomst in Nederland stonden in de garage twee grote dozen op mij te wachten. Wat zou daar in zitten? Twee fonkelnieuwe stukken uitlaat voor mijn Mitsubishi Colt! Het zou ook wel eens tijd worden, want ik zat inmiddels al anderhalve maand te wachten… Gelukkig was Roel niet te beroerd om mij te helpen met het installeren van deze knalpijp. Roel werkt namelijk in een garage en voor dit soort klusjes is een brug toch wel erg handig.</description>
+    </item>
+    
+    <item>
+      <title>Home Sweet Home</title>
+      <link>http://ludovandenboom.com/posts/home-sweet-home/</link>
+      <pubDate>Tue, 08 May 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://ludovandenboom.com/posts/home-sweet-home/</guid>
+      <description>En toen was ik weer in Heerlen. De terugreis verliep niet helemaal soepel, waarbij gebrek aan benzine, een klapband, een defect PA system en een defecte deur een belangrijke rol speelden. Met vijf uur vertraging kon de vlucht naar Schiphol eindelijk beginnen. De vlucht zelf verliep prima, met hier en daar wat turbulentie, maar het grootste gedeelte van de negen en een halfuur durende vlucht heb ik slapend door kunnen brengen.</description>
+    </item>
+    
+    <item>
+      <title>Giants vs. Phillies</title>
+      <link>http://ludovandenboom.com/posts/giants-vs-phillies/</link>
+      <pubDate>Mon, 07 May 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://ludovandenboom.com/posts/giants-vs-phillies/</guid>
+      <description>De laatste dag bestaat uit het aan elkaar knopen van de laatste eindjes en het nog even snel meepikken van een aantal culturele evenementen. Vandaag heb ik een baseball game bekeken en een burrito gegeten. De burrito is lekker, maar erg peperig, iets dat ik niet zo heftig gewend ben. De baseball game was erg gaaf om mee te maken. Kash, iemand uit het hostel, had gehoord dat er een wedstrij zou zijn.</description>
+    </item>
+    
+    <item>
+      <title>Golden Gate Park</title>
+      <link>http://ludovandenboom.com/posts/golden-gate-park/</link>
+      <pubDate>Sat, 05 May 2007 09:00:00 +0000</pubDate>
+      
+      <guid>http://ludovandenboom.com/posts/golden-gate-park/</guid>
+      <description>Het is – unfortunately – alweer de een-na-laatste dag van mijn verblijf in San Francisco. Als ik opsta is het prachtig weer en vandaag wil ik een bezoekje gaan brengen aan het Golden Gate Park. Dit park, dat een breedte heeft van één kilometer en acht kilometer lang is, snijdt als een groene oase diep in het hart van San Francisco. Het strekt zich uit van de kust van de Grote Oceaan tot ongeveer halverwege het schiereiland waarop San Francisco is gebouwd.</description>
+    </item>
+    
+    <item>
+      <title>Fisherman&#39;s Wharf</title>
+      <link>http://ludovandenboom.com/posts/fisherman-s-wharf/</link>
+      <pubDate>Sat, 05 May 2007 08:00:00 +0000</pubDate>
+      
+      <guid>http://ludovandenboom.com/posts/fisherman-s-wharf/</guid>
+      <description>Fisherman’s Wharf is het Valkenburg van San Francisco, oftewel één grote toeristen-magneet. De enige winkels die je hier vindt zijn dan ook souvenirwinkels die allemaal dezelfde dingen verkopen en een heleboel visrestaurants. Ik ben niet vreselijk gek op deze toeristische plekjes, maar ik voelde me wel verplicht om het even te bezoeken. Eigenlijk wilde ik naar het Golden Gate Park gaan, maar vanwege het slechte weer heb ik dat een dag uitgesteld.</description>
+    </item>
+    
+    <item>
+      <title>Green Tortoise Hostel</title>
+      <link>http://ludovandenboom.com/posts/green-tortoise-hostel/</link>
+      <pubDate>Thu, 03 May 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://ludovandenboom.com/posts/green-tortoise-hostel/</guid>
+      <description>In San Francisco verblijf ik in het Green Tortoise San Francisco Hostel, onderdeel van een organisatie die onder meer kampeertochten naar natuurparken onderneemt met hun eigen ‘camperbussen’. Voor iedereen waarbij het begrip hostel niet bekend is: in een hostel deel je meestal met meerdere mensen één kamer en alle andere voorzieningen. Dit hostel heeft een hoop extra’s die het erg aantrekkelijk maken, zoals drie keer per week gratis eten, gratis ontbijt en gratis internet.</description>
+    </item>
+    
+    <item>
+      <title>Highway 1</title>
+      <link>http://ludovandenboom.com/posts/highway-1/</link>
+      <pubDate>Wed, 02 May 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://ludovandenboom.com/posts/highway-1/</guid>
+      <description>Regen! Dat is wat vannacht uit de lucht is gevallen in San Francisco. Als je een cabriolet hebt gehuurd dan is dit niet het weer waar je op zit te wachten. Gelukkig is het regenen gestopt wanneer ik opsta en komt zelfs af en toe de zon door de bewolking heen. Na het ontbijt, dat hier alleen bestaat it geroosterde bagels, ga ik richting de parkeergarage waar ik mijn tijdelijke auto gisteren heb achtergelaten.</description>
+    </item>
+    
+    <item>
+      <title>Beetle in the Nature</title>
+      <link>http://ludovandenboom.com/posts/beetle-in-the-nature/</link>
+      <pubDate>Tue, 01 May 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://ludovandenboom.com/posts/beetle-in-the-nature/</guid>
+      <description>Vanochtend om 11 uur heeft Ludo zijn tijdelijke ride opgehaald: een heuse Volkswagen New Beetle Convertible met lederen interieur. Ik kan je vertellen dat dat behoorlijk fun is. Het knopje om het dak te openen zit goed verstopt en eigenlijk is het nét iets te fris om zonder dak rond te rijden. Maar daar trekken we ons niks van aan, dus doen we het dak open alsof er niks aan de hand is.</description>
+    </item>
+    
+    <item>
+      <title>Golden Gate Bridge</title>
+      <link>http://ludovandenboom.com/posts/golden-gate-bridge/</link>
+      <pubDate>Mon, 30 Apr 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://ludovandenboom.com/posts/golden-gate-bridge/</guid>
+      <description>De huizenprijzen in San Francisco behoren tot de hoogste van de wereld. Het maakt niet uit in welke wijk je iets zoekt, belachelijk duur is het overal. Ik begin nu te begrijpen waarom dit zo is: élk plekje dat je maar kunt vinden heeft een fantastisch uitzicht. Het is heerlijk om in een willekeurig park te gaan zitten en te kijken hoe de wereld aan je voorbij trekt. Ik denk dat ik maar eens bij de universiteit ga kijken om te zien of ze hier geen leuke opleidingen hebben!</description>
+    </item>
+    
+    <item>
+      <title>Chinatown</title>
+      <link>http://ludovandenboom.com/posts/chinatown/</link>
+      <pubDate>Sun, 29 Apr 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://ludovandenboom.com/posts/chinatown/</guid>
+      <description>Je bent toerist én je hebt een Lonely Planet gids, dus dan moet je ook gebruikmaken van de uitstapjes die hierin beschreven staan. Vanochtend voor het eerst een beetje uitgeslapen en daardoor meteen het ontbijt gemist. Eerst dus even naar Marina gelopen om daar een sandwich op te pikken en voor de tweede keer koffie te drinken bij Starbucks ;-) Het werd dit keer de ‘huppelepup Mocciato’ (de juiste naam moet ik nog even opzoeken…) en het smaakte erg lekker!</description>
+    </item>
+    
+    <item>
+      <title>Going to San Francisco</title>
+      <link>http://ludovandenboom.com/posts/going-to-san-francisco/</link>
+      <pubDate>Sat, 28 Apr 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://ludovandenboom.com/posts/going-to-san-francisco/</guid>
+      <description>Even een snelle post met een paar foto&amp;rsquo;s. Ik zit nu in San Francisco en de internetverbinding wil hier nog wel eens erg traag zijn&amp;hellip; Daarom ben ik blij dat ik deze foto’s even snel heb kunnen uploaden.</description>
+    </item>
+    
+    <item>
+      <title>Amicis&#39; Bill: de Achterkant</title>
+      <link>http://ludovandenboom.com/posts/amicis-bill-de-achterkant/</link>
+      <pubDate>Fri, 27 Apr 2007 10:00:00 +0000</pubDate>
+      
+      <guid>http://ludovandenboom.com/posts/amicis-bill-de-achterkant/</guid>
+      <description>Het is tijd om mijn spullen bij elkaar te pakken zodat ik morgen de reis naar San Francisco kan gaan maken. Het liefst laat ik hierbij zoveel mogelijk achter omdat ik al met een gigantische rugzak en een kleinere rugzak rondloop. Om te beginnen moet ik dus maar even de stapel papier die ik de afgelopen dagen bij elkaar gesprokkeld heb gaan uitzoeken. Herinneren jullie je mijn melding van de pizzeria Amicis nog?</description>
+    </item>
+    
+    <item>
+      <title>Vreemd Verschijnsel #1: Kliekjes</title>
+      <link>http://ludovandenboom.com/posts/vreemd-verschijnsel-1-kliekjes/</link>
+      <pubDate>Fri, 27 Apr 2007 09:00:00 +0000</pubDate>
+      
+      <guid>http://ludovandenboom.com/posts/vreemd-verschijnsel-1-kliekjes/</guid>
+      <description>Het is hier doodnormaal, maar ik blijf het toch vreemd vinden: kliekjes. Je gaat uit eten in een restaurant en je krijgt niet alles opgegeten, in Nederland verdwijnt dit direct richting prullenbak – als het goed is, soms schijnt het de volgende dag weer op je bord te kunnen liggen. Hier in Amerika is het echter de normaalste zaak van de wereld om een doos te vragen waar alles dat je nog niet hebt opgegeten in verdwijnt.</description>
+    </item>
+    
+    <item>
+      <title>Geslaagd</title>
+      <link>http://ludovandenboom.com/posts/geslaagd/</link>
+      <pubDate>Fri, 27 Apr 2007 08:00:00 +0000</pubDate>
+      
+      <guid>http://ludovandenboom.com/posts/geslaagd/</guid>
+      <description>Het is alweer vrijdag (bij jullie al een tijd zaterdag trouwens&amp;hellip;) en ik ben dus al bijna een week in Amerika. Tot nu toe bevalt het bijzonder goed! Vrijdag betekent ook dat het de laatste dag van de training bij Sun is, en dat is jammer want zeker de laatste twee dagen waren erg interessant. Omdat ik al redelijk wat ervaring heb met andere programmeertalen was het oppikken van Java geen groot probleem, ik was dan ook steeds als eerste van de klas klaar met de opdrachten.</description>
+    </item>
+    
+    <item>
+      <title>Walking Down the Streets</title>
+      <link>http://ludovandenboom.com/posts/walking-down-the-streets/</link>
+      <pubDate>Wed, 25 Apr 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://ludovandenboom.com/posts/walking-down-the-streets/</guid>
+      <description>Vandaag een kort bericht. Ik zou namelijk heel uitgebreid kunnen beschrijven wat ik allemaal geleerd heb vandaag, maar velen van jullie zal dit niet interesseren. En aangezien mijn dag van 9 tot 5 al ingevuld is heb ik niet veel bijzonders te melden. Het is wel erg leuk om reacties op mijn stukjes te krijgen, en ik ben blij dat jullie het leuk vinden om mijn verrichtingen hier te volgen.</description>
+    </item>
+    
+    <item>
+      <title>Duits Bier Uit Amerika</title>
+      <link>http://ludovandenboom.com/posts/duits-bier-uit-amerika/</link>
+      <pubDate>Tue, 24 Apr 2007 09:00:00 +0000</pubDate>
+      
+      <guid>http://ludovandenboom.com/posts/duits-bier-uit-amerika/</guid>
+      <description>Ook op culinair gebied probeer ik een en ander mee te pikken van Amerika. Nou ben ik geen held in het vinden van leuke restaurantjes, maar een restaurant dat zijn eigen Duitse bier brouwt moet ik natuurlijk wel proberen. Het brouwen van Duits bier in Amerika vind ik sowieso al een vreemde aangelegenheid. Hoe kun je nou Duits bier brouwen als je niet in Duitsland bent? Maar goed, alles beter dan Bud zullen we maar zeggen.</description>
+    </item>
+    
+    <item>
+      <title>Eerste Schooldag</title>
+      <link>http://ludovandenboom.com/posts/eerste-schooldag/</link>
+      <pubDate>Tue, 24 Apr 2007 08:00:00 +0000</pubDate>
+      
+      <guid>http://ludovandenboom.com/posts/eerste-schooldag/</guid>
+      <description>Dan ben je in Amerika, en wat doe je? Juist, je gaat naar school! Gisteren was mijn eerste dag van een vijfdaagse training over Java. &amp;rsquo;s Ochtends dus vroeg opstaan, maar dat is geen enkel probleem met negen uur tijdverschil. Voor de statistieken: mijn klas bestaat uit zes personen, inclusief mijzelf. Hiervan is 50% vrouw, en ook de lerares is een vrouw. In totaal dus meer dan 50% vrouwen! Dat is nog eens andere koek dan de afgelopen jaren op de Hogeschool, waar het percentage vrouwen verwaarloosbaar is geweest.</description>
+    </item>
+    
+    <item>
+      <title>What&#39;s Happening In San Jose</title>
+      <link>http://ludovandenboom.com/posts/what-s-happening-in-san-jose/</link>
+      <pubDate>Mon, 23 Apr 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://ludovandenboom.com/posts/what-s-happening-in-san-jose/</guid>
+      <description>Gisteren heb ik de hele dag de tijd gehad om San Jose te verkennen. En het tijdverschil helpt goed bij het opstaan, dus ik ging al vroeg op pad. Maar eerst nog even ontbijten, waarbij de donut natuurlijk niet mag ontbreken. Het lijkt er op dat ze in San Jose een eigen versie van het pleinenplan hebben, want veel parken en pleinen lijken net opgeknapt te zijn. Een ander plan dat ze zouden mogen overnemen van Heerlen is operatie Hartslag… Het lijkt hier Heerlen wel, maar dan tien jaar geleden.</description>
+    </item>
+    
+    <item>
+      <title>Starbucks Coffee</title>
+      <link>http://ludovandenboom.com/posts/starbucks-coffee/</link>
+      <pubDate>Sun, 22 Apr 2007 09:00:00 +0000</pubDate>
+      
+      <guid>http://ludovandenboom.com/posts/starbucks-coffee/</guid>
+      <description>Ludo en koffie? Ja, je leest het goed! Maar goed, met negen uur tijdverschil kun je ook wel wat caffeïne gebruiken om alert te blijven. Dus ging Ludo op zoek naar de dichtsbijzijnde Starbucks om behoorlijk conservatief een Capuccino Venti te kopen, oftewel gewoon een hele grote capuccino. Er zijn ook nog een hoop andere smaakjes, maar om te beginnen leek dit me wel voldoende.
+En dan komt meteen het probleem: hoe schrijft een Amerikaan mijn naam?</description>
+    </item>
+    
+    <item>
+      <title>Cleared For Takeoff</title>
+      <link>http://ludovandenboom.com/posts/cleared-for-takeoff/</link>
+      <pubDate>Sun, 22 Apr 2007 08:00:00 +0000</pubDate>
+      
+      <guid>http://ludovandenboom.com/posts/cleared-for-takeoff/</guid>
+      <description>Na weken van voorbereiden is het dan eindelijk zover, ik ben vertrokken naar het ‘land van onbegrensde mogelijkheden’: Amerika! Met dank aan Mediaan omdat zij mij deze reis hebben laten winnen. Ik zal ongeveer twee weken in Californië verblijven, waarbij de eerste week in het teken staat van een training bij Sun en de tweede week door mijzelf zal worden ingevuld met typische vakantie-dingen.
+Gisteren stond in het teken van reizen, reizen en nog eens reizen.</description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>http://ludovandenboom.com/posts/welcome/</link>
+      <pubDate>Mon, 06 Nov 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://ludovandenboom.com/posts/welcome/</guid>
+      <description>This weblog will, eventually, be filled with information about current projects. For now it serves as a sandbox to try out this blog software. Powered by Mephisto, which is, of course, powered by Ruby on Rails. Stay tuned for more information.</description>
+    </item>
+    
+  </channel>
+</rss>

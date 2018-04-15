@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on ludovandenboom.com</title>
+    <link>http://ludovandenboom.com/authors/</link>
+    <description>Recent content in Authors on ludovandenboom.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="http://ludovandenboom.com/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ludo</title>
+      <link>http://ludovandenboom.com/authors/ludo/</link>
+      <pubDate>Fri, 15 Feb 2013 10:00:00 +0000</pubDate>
+      
+      <guid>http://ludovandenboom.com/authors/ludo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photography on ludovandenboom.com</title>
+    <link>http://ludovandenboom.com/categories/photography/</link>
+    <description>Recent content in Photography on ludovandenboom.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 20 Aug 2008 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://ludovandenboom.com/categories/photography/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tractor</title>
+      <link>http://ludovandenboom.com/posts/tractor/</link>
+      <pubDate>Wed, 20 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://ludovandenboom.com/posts/tractor/</guid>
+      <description>Move along, there&amp;rsquo;s nothing to see here. That is what this tractor was trying to tell me while I was about to take the first photograph of his old, rusty body. After a few clicks the tractor seemed to get used to the attention it was getting. Even the sun would show itself for a few minutes. The tractor didn&amp;rsquo;t say a word, but it looked like it was just as surprised as me that the sun was able to punch a hole in the large and heavy clouds floating along slowly, high above our heads.</description>
+    </item>
+    
+  </channel>
+</rss>

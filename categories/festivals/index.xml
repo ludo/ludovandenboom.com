@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Festivals on ludovandenboom.com</title>
+    <link>http://ludovandenboom.com/categories/festivals/</link>
+    <description>Recent content in Festivals on ludovandenboom.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 25 Aug 2008 10:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://ludovandenboom.com/categories/festivals/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Booch? 2008</title>
+      <link>http://ludovandenboom.com/posts/booch-2008/</link>
+      <pubDate>Mon, 25 Aug 2008 10:00:00 +0000</pubDate>
+      
+      <guid>http://ludovandenboom.com/posts/booch-2008/</guid>
+      <description>Booch? is an annual summer festival, held in my hometown: Heerlen. This years eleventh edition of this free festival brought artists like Moke, Claw Boys Claw and Aux Raus. But Booch? is also a podium for new bands and undiscovered local talent to play themselves in the picture. The festival is organized by a large group of volunteers, working hard to make the last weekend of August into one big party.</description>
+    </item>
+    
+  </channel>
+</rss>

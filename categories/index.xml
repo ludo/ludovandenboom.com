@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on ludovandenboom.com</title>
+    <link>http://ludovandenboom.com/categories/</link>
+    <description>Recent content in Categories on ludovandenboom.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="http://ludovandenboom.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Festivals</title>
+      <link>http://ludovandenboom.com/categories/festivals/</link>
+      <pubDate>Mon, 25 Aug 2008 10:00:00 +0000</pubDate>
+      
+      <guid>http://ludovandenboom.com/categories/festivals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photography</title>
+      <link>http://ludovandenboom.com/categories/photography/</link>
+      <pubDate>Wed, 20 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://ludovandenboom.com/categories/photography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://ludovandenboom.com/categories/projects/</link>
+      <pubDate>Tue, 29 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://ludovandenboom.com/categories/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travel</title>
+      <link>http://ludovandenboom.com/categories/travel/</link>
+      <pubDate>Wed, 23 May 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://ludovandenboom.com/categories/travel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

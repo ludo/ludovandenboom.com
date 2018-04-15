@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on ludovandenboom.com</title>
+    <link>http://ludovandenboom.com/categories/projects/</link>
+    <description>Recent content in Projects on ludovandenboom.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 29 Jul 2008 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://ludovandenboom.com/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New Design, New Language</title>
+      <link>http://ludovandenboom.com/posts/new-design-new-language/</link>
+      <pubDate>Tue, 29 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://ludovandenboom.com/posts/new-design-new-language/</guid>
+      <description>Welcome to my updated weblog! Until now, all my posts have been written in Dutch. As of this post I&amp;rsquo;m switching to English as the primary language for this blog. But the language change isn&amp;rsquo;t the only major change around here, both the design and the software for this blog have been updated too. I&amp;rsquo;ve switched from using Mephisto to my own blogging slash publishing solution, named to-publish. It is open-source, so feel free to use it, change it or contribute to it.</description>
+    </item>
+    
+    <item>
+      <title>La Casa ME</title>
+      <link>http://ludovandenboom.com/posts/la-casa-me/</link>
+      <pubDate>Sun, 02 Sep 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://ludovandenboom.com/posts/la-casa-me/</guid>
+      <description>Vanaf 1 september zijn op de website van La Casa ME schitterende sieraden, tassen en accessoires om zelf sieraden te maken te koop! Ook kun je je inschrijven voor verschillende creatieve workshops, individueel of als bedrijfsuitje.
+Waarom ik deze reclame op mijn weblog plaats? In de eerste plaats omdat het een hartstikke leuk, creatief bedrijf is. Ze ontwerpen ook zelf sieraden en zullen vanaf half oktober ook een ‘echte’ winkel openen in hartje Heerlen.</description>
+    </item>
+    
+  </channel>
+</rss>
